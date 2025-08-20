@@ -19,3 +19,6 @@ use libraries like PyPDF2 for merging, PyMuPDF for rendering and annotating, and
 I plan to build the app modularly, beginning with core functions like merging and viewing PDFs, then gradually adding annotation and editing features. The user interface will be developed last to integrate all functionalities
 smoothly. I will post regular updates on the progress and enhancements of this project.
 
+
+20-08-2025:
+
