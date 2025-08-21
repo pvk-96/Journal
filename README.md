@@ -27,3 +27,12 @@ I will be publishing my portfolio on the site soon. The portfolio will be comple
 
 
 21-08-2025:
+
+Update: I have created my first portfolio website using tools like lovable.dev and have built my information on its output. 
+
+I have deployed the code to a new repository named Portfolio in my GitHub account. have deployed it as a site to vercel.com and have added it as a sub-domain to "pvk.net.in". 
+
+The website link is: "portfolio.pvk.net.in". 
+
+The backend is not yet complete. I will be working on it later on. 
+
