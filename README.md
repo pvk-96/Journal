@@ -24,3 +24,6 @@ smoothly. I will post regular updates on the progress and enhancements of this p
 
 Update: Today I have bought a custom domain. It is "pvk.net.in"
 I will be publishing my portfolio on the site soon. The portfolio will be complete with my certifications and projects.
+
+
+21-08-2025:
