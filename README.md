@@ -42,3 +42,11 @@ The backend is not yet complete. I will be working on it later on.
 Today I plan on reviving one of my dead projects. 
 The name of the project is HORUS. It is a remastered version of Linux that I have initially planned to release in March of 2025, but has scrapped it due to some issues. 
 I plan on redoing this starting it from scratch. I will be posting all the updates here.
+
+23-08-2025: 
+The time right now is around 12.45AM.
+I had to work to now because I messed up big time, trying to set up more space for Windows operating system. I could've played out safe and done it way faster but I didn't. But honestly this was a great experience. 
+
+After a long thought process, I have decided the base of HORUS OS will be Arch Linux. I have chosen it due to its stability. 
+
+I will update more about this in the morning. Gn 🙏
