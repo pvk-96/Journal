@@ -26,6 +26,7 @@ Update: Today I have bought a custom domain. It is "pvk.net.in"
 I will be publishing my portfolio on the site soon. The portfolio will be complete with my certifications and projects.
 
 
+
 21-08-2025:
 
 Update: I have created my first portfolio website using tools like lovable.dev and have built my information on its output. 
@@ -38,3 +39,6 @@ The backend is not yet complete. I will be working on it later on.
 
 
 22-08-2025:
+Today I plan on reviving one of my dead projects. 
+The name of the project is HORUS. It is a remastered version of Linux that I have initially planned to release in March of 2025, but has scrapped it due to some issues. 
+I plan on redoing this starting it from scratch. I will be posting all the updates here.
