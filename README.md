@@ -46,7 +46,9 @@ I plan on redoing this starting it from scratch. I will be posting all the updat
 23-08-2025: 
 The time right now is around 12.45AM.
 I had to work to now because I messed up big time, trying to set up more space for Windows operating system. I could've played out safe and done it way faster but I didn't. But honestly this was a great experience. 
-
 After a long thought process, I have decided the base of HORUS OS will be Arch Linux. I have chosen it due to its stability. 
-
 I will update more about this in the morning. Gn 🙏
+
+Update: I have settled for MX Linux as the base as opposed to the initial thought of Arch Liunx as the base. I have changed this due to MX Linux having  a larger base of tools, support and beginner friendly experience, and since the targeted user base of HORUS being students who do not like complex first distributions. 
+I have Finished a day-to-day plan ( a roadmap of sorts) for this project that allows me to stay focused. It is a 10-day plan that involves various steps from customizing to addingmy own tools.
+I will be updating this documents to share the progress of my project.
