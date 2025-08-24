@@ -54,4 +54,16 @@ I have Finished a day-to-day plan ( a roadmap of sorts) for this project that al
 I will be updating this documents to share the progress of my project.
 
 24-08-2025:
+UPDATE:
+Today I have shortlisted a small list of apps that I plan on including in HORUS. Since the targeted audience/users for this project is students, I chose mainly free or/and Open-Source Apps.
+This list includes apps like:
+LibreOffice Suite.
+Okular.
+FOSS Browser (Chromium)
+etc.
+
+UPDATE:
+I have also started a small new project, I have decided to host a simple chat-bot connected to Google Dialogflow to a sub-domain in pvk.net.in (something like: chat.pvk.net.in)
+The Dialogflow bot has so many answers to questions regarding me. Like my projects certifications and more. Since this is a fairly small project, I intend on completing this project this week.
+Will update reqularly.
 
