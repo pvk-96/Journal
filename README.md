@@ -67,3 +67,5 @@ I have also started a small new project, I have decided to host a simple chat-bo
 The Dialogflow bot has so many answers to questions regarding me. Like my projects certifications and more. Since this is a fairly small project, I intend on completing this project this week.
 Will update reqularly.
 
+25-08-2025:
+
