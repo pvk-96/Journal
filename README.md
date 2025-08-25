@@ -68,4 +68,8 @@ The Dialogflow bot has so many answers to questions regarding me. Like my projec
 Will update reqularly.
 
 25-08-2025:
-
+Today I have made some progress on designing my Chat Bot website. 
+I have gone with static web design to keep it as light as possible. 
+I have created an agent, given it around 20 intents and trained it on generic professional questions. I have also trained the agent on small talk since dialogflow has so many small talk questions pre-built. 
+Tomorrow I will have to integrate the agent to my website, test it and deploy. 
+will update tomorrow
