@@ -73,3 +73,7 @@ I have gone with static web design to keep it as light as possible.
 I have created an agent, given it around 20 intents and trained it on generic professional questions. I have also trained the agent on small talk since dialogflow has so many small talk questions pre-built. 
 Tomorrow I will have to integrate the agent to my website, test it and deploy. 
 will update tomorrow
+
+26-08-2025:
+Today, I have not done much. But I took my time retraining the bot again with even more training phrases and responses.
+
