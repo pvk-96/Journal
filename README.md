@@ -76,4 +76,5 @@ will update tomorrow
 
 26-08-2025:
 Today, I have not done much. But I took my time retraining the bot again with even more training phrases and responses.
-
+I will be doing some work on HORUS forthe day, I will have to run some scripts( that are my own) regardingvarious purposes.
+I will be updating once that is done...
