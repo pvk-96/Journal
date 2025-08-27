@@ -80,3 +80,7 @@ I will be doing some work on HORUS forthe day, I will have to run some scripts( 
 I will be updating once that is done...
 
 27-08-2025:
+UPDATE:
+Today, I was not able to put in any real work, and my subdomain( portfolio.pvk.net.in) is not working, I have not been able to assess the problem and find the cause of it.
+I will find the cause and resolve it tommorow.
+I will be working tommorow, since this day is over.
