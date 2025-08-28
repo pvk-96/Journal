@@ -87,4 +87,5 @@ I will be working tommorow, since this day is over.
 
 28-08-2025:
 Today, I have not done any major work(Like yesterday) Since I was researching the 2025 Smart India Hackathon Problem Statements. 
-I have found Some Interesting ones, There is a meeting at 9:00 pm today with my hackathon theme. 
+I have found Some Interesting ones, There is a meeting at 9:00 pm today with my hackathon team and I have 3 Problem Statements that I have found Interesting more than the others. I will pitch them to my team. 
+They will have some of their own statements. So, I will be updating after the meeting.
