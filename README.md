@@ -84,3 +84,7 @@ UPDATE:
 Today, I was not able to put in any real work, and my subdomain( portfolio.pvk.net.in) is not working, I have not been able to assess the problem and find the cause of it.
 I will find the cause and resolve it tommorow.
 I will be working tommorow, since this day is over.
+
+28-08-2025:
+Today, I have not done any major work(Like yesterday) Since I was researching the 2025 Smart India Hackathon Problem Statements. 
+I have found Some Interesting ones, There is a meeting at 9:00 pm today with my hackathon theme. 
