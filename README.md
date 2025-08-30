@@ -97,3 +97,6 @@ It might be challenging, We'll have to try.
 Now to my projects, I am trying to generate the ASCII art for the logo of horus. It is quite challenging, I have written a python script for this job, It is not working how i want that to. I'll be doing this today
 
 30-08-2025:
+Today, I have created an app in uxccelerate.ai for it's VibeHack 2025.
+the app is a better version of AeroCode available on my github page with the same name.
+I have submitted it and do not know what will happen.
