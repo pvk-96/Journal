@@ -95,3 +95,5 @@ We chose the statement 25076:
 A chatbot for farmers, It has t give them suggestions for their crops and more. 
 It might be challenging, We'll have to try.
 Now to my projects, I am trying to generate the ASCII art for the logo of horus. It is quite challenging, I have written a python script for this job, It is not working how i want that to. I'll be doing this today
+
+30-08-2025:
