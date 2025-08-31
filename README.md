@@ -101,4 +101,9 @@ Today, I have created an app in uxccelerate.ai for it's VibeHack 2025.
 the app is a better version of AeroCode available on my github page with the same name.
 I have submitted it and do not know what will happen.
 
-31-08-2025
+31-08-2025:
+Today I have faced a major issue with HORUS. I do not know what went wrong but it is not working. I tried rebooting but it doesn't even boot up anymore. 
+
+I think I'll have to do so the things from start again. This has happened multiple times in the past. That is the main reason I have scrapped this project in the past. 
+I will try to do this two more times and if this happens again, I would ultimately scrap the project and move on. 
+
