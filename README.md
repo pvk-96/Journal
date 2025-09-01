@@ -112,3 +112,7 @@ that's it for today. I will try again and update
 
 
 # SEPTEMBER 2025:
+01-09-2025:
+Today I had installed MX LINUX for HORUS. I have done the basic things and an getting started with that again. 
+I will be advancing tomorrow. 
+I will update once I have started
