@@ -108,3 +108,7 @@ I think I'll have to do so the things from start again. This has happened multip
 I will try to do this two more times and if this happens again, I would ultimately scrap the project and move on. 
 Also, I bought home a small turtle yesterday, I named it OOGWAY.
 that's it for today. I will try again and update
+
+
+
+# SEPTEMBER 2025:
