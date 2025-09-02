@@ -114,3 +114,6 @@ that's it for today. I will try again and update
 Today I had installed MX LINUX for HORUS. I have done the basic things and an getting started with that again. 
 I will be advancing tomorrow. 
 I will update once I have started
+
+02-09-2025:
+Today I had a really great session with Sri. Gampa Nageswara Rao Sir, He is the founder of Impact Club International. 
