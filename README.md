@@ -117,3 +117,8 @@ I will update once I have started
 
 02-09-2025:
 Today I had a really great session with Sri. Gampa Nageswara Rao Sir, He is the founder of Impact Club International. 
+The session was so great, I have learned so much about the today's world and how to advance in it. I loved that session.
+Since there were very limited people, I was able to talk to him and he has given me some advice regarding my education, and how I can improve my concentration.
+As for my projects and all, I have not put any work today due to the lack of time.
+I willhave to start HORUS tommorow.
+I will update once i have started.
