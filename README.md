@@ -124,3 +124,8 @@ I willhave to start HORUS tommorow.
 I will update once i have started.
 
 03-09-2025:
+Today, I have joined another hackathon conducted by our college. 
+The team for this hackathon is the same as the team I was in for SIH.
+Also I have reinstalled all the necessary applications for HORUS. I hope to succeed this time. I have created a plan for 7 days regarding this project. If I succeed, I will be very happy. 
+I will share that plan here tomorrow after finalizing that.
+I will update tomorrow.
