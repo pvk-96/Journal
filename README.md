@@ -129,3 +129,13 @@ The team for this hackathon is the same as the team I was in for SIH.
 Also I have reinstalled all the necessary applications for HORUS. I hope to succeed this time. I have created a plan for 7 days regarding this project. If I succeed, I will be very happy. 
 I will share that plan here tomorrow after finalizing that.
 I will update tomorrow.
+
+04-09-2025:
+Today I made a complete fool of myself in front of my whole class. 
+One of my teachers had asked me to list my projects and achievements to interview us. 
+He did that to give worthy students a chance to work with him and publish some papers. 
+That would've been a great opportunity for me if not for that embarrassment. 
+I listed some of my projects and I was literally shaking with dear during that time. He asked me to elaborate about my Machine Learning project which I was unable to do because of the fear and embarrassment.
+He ultimately did not give me the chance and I do not feel so good about that. 
+I wish I had that chance to work with him and build my skills.
+As for my projects.
