@@ -151,3 +151,7 @@ Also, today is the first day of a 5-day OSINT Bootcamp. I am fascinated by that 
 Tomorrow there is a GDG meet in our college about vibe coding. 
 I've been doing that for quite some time now but I want to learn more about it that I might not know. so I enrolled for that too.
 I'll update after these sessions.
+
+Update: I have started a new project today. 
+NoteNest:
+A user-friendly and lightweight notepad app for quick, organized note-taking and Code editing.
