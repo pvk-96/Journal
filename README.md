@@ -138,4 +138,6 @@ That would've been a great opportunity for me if not for that embarrassment.
 I listed some of my projects and I was literally shaking with dear during that time. He asked me to elaborate about my Machine Learning project which I was unable to do because of the fear and embarrassment.
 He ultimately did not give me the chance and I do not feel so good about that. 
 I wish I had that chance to work with him and build my skills.
-As for my projects.
+As for my projects, I tried HORUS again only to get the same result. 
+I am thinking of scraping to forever. or atleast I get some guidance and restart it. 
+
