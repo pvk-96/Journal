@@ -141,3 +141,13 @@ I wish I had that chance to work with him and build my skills.
 As for my projects, I tried HORUS again only to get the same result. 
 I am thinking of scraping to forever. or atleast I get some guidance and restart it. 
 
+
+05-09-2025:
+Today is a holiday and I got a chance to do one final run on HORUS so I booted up the virtual machine with yesterday's version. 
+I thought it would work if I try and repair it but I was unlucky as it didn't work. 
+I have scrapped to and am thinking of meeting one of our college teachers for some guidance. 
+The professor I am thinking of meeting haa already made an operating system for our college. So I think he might help me. I am nervous about meeting him. 
+Also, today is the first day of a 5-day OSINT Bootcamp. I am fascinated by that subject so I figured I'd learn the basics. 
+Tomorrow there is a GDG meet in our college about vibe coding. 
+I've been doing that for quite some time now but I want to learn more about it that I might not know. so I enrolled for that too.
+I'll update after these sessions.
