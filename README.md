@@ -155,3 +155,8 @@ I'll update after these sessions.
 Update: I have started a new project today. 
 NoteNest:
 A user-friendly and lightweight notepad app for quick, organized note-taking and Code editing.
+
+06-09-2025:
+Today I have attended the GOOGLE DEVELOPER GROUPS event in our college. It was a great experience. 
+Even though I have used the tools before today, I have learnt so much more. 
+Before coming home I met the teacher that rejected me saying my experience is not good, I've shown him the projects I did and he is giving me a chance.
