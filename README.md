@@ -159,5 +159,10 @@ A user-friendly and lightweight notepad app for quick, organized note-taking and
 06-09-2025:
 Today I have attended the GOOGLE DEVELOPER GROUPS event in our college. It was a great experience. 
 Even though I have used the tools before today, I have learnt so much more. 
-Before coming home I met the teacher that rejected me saying my experience is not good, I've shown him the projects I did and he is giving me a chance.
+Before coming home I met the teacher that rejected me saying my experience is not good, I'v e shown him the projects I did and he is giving me a chance I think...
 That's it for today, I will update once something happened
+
+07-09-2025:
+Today was a good day, I have used the Gemini CLI tool to create a notepad app that I've mentioned before
+NoteNest is actually done, I will upload the code to GitHub.
+There are some more things to do on that, so I will upload after that.
