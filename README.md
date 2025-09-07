@@ -166,3 +166,5 @@ That's it for today, I will update once something happened
 Today was a good day, I have used the Gemini CLI tool to create a notepad app that I've mentioned before
 NoteNest is actually done, I will upload the code to GitHub.
 There are some more things to do on that, so I will upload after that.
+I have added features like syntax highlghting for multiple languages in this.
+there also is so much to explore, so I will upload the code as V1.0 and upload the next version after adding all the other features.
