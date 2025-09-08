@@ -168,3 +168,5 @@ NoteNest is actually done, I will upload the code to GitHub.
 There are some more things to do on that, so I will upload after that.
 I have added features like syntax highlghting for multiple languages in this.
 there also is so much to explore, so I will upload the code as V1.0 and upload the next version after adding all the other features.
+
+08-09-2025:
