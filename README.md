@@ -173,3 +173,5 @@ there also is so much to explore, so I will upload the code as V1.0 and upload t
 Today is a bad day since I have not put in any real work.
 I was a bit preoccupied with SIH work.
 That's it for today. I will update tomorrow.
+UPDATE: I have developed a simple prototype for KrishiSetu.
+I have uploaded it to GitHub. Check it out at https://github.com/pvk-96/KrishiSetu-Prototype
