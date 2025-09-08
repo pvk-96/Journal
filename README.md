@@ -170,3 +170,6 @@ I have added features like syntax highlghting for multiple languages in this.
 there also is so much to explore, so I will upload the code as V1.0 and upload the next version after adding all the other features.
 
 08-09-2025:
+Today is a bad day since I have not put in any real work.
+I was a bit preoccupied with SIH work.
+That's it for today. I will update tomorrow.
