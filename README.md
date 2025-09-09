@@ -177,3 +177,8 @@ UPDATE: I have developed a simple prototype for KrishiSetu.
 I have uploaded it to GitHub. Check it out at https://github.com/pvk-96/KrishiSetu-Prototype
 
 09-09-2025:
+Today was a somewhat wasted day.
+the whole day I was working on SIH work. 
+We have created a prototype, created presentation recorded videos regarding the presentation, edited those videos and all just for the deadline to be extended. 
+Tomorrow will be spent on Sankalp Hackathon. I am unable to focus on my projects because of this. 
+I will update with any interesting things.
