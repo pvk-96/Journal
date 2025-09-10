@@ -182,3 +182,5 @@ the whole day I was working on SIH work.
 We have created a prototype, created presentation recorded videos regarding the presentation, edited those videos and all just for the deadline to be extended. 
 Tomorrow will be spent on Sankalp Hackathon. I am unable to focus on my projects because of this. 
 I will update with any interesting things.
+
+10-09-2025
