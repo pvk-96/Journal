@@ -183,4 +183,16 @@ We have created a prototype, created presentation recorded videos regarding the 
 Tomorrow will be spent on Sankalp Hackathon. I am unable to focus on my projects because of this. 
 I will update with any interesting things.
 
-10-09-2025
+10-09-2025:
+Today was the last day for ppt submission for our college hackathon. 
+
+We chose
+“A silent crisis exists — millions of children with learning disabilities remain unseen, while thousands of professionals remain underutilized.”
+
+The Numbers Speak:Over 30 million people in India live with learning disabilities, with 3.5 lakh children aged 0–17 in need of immediate support.
+The Hidden Gap:Ironically, while children require timely intervention and therapy, thousands — if not lakhs — of trained therapists struggle to find patients.
+The Root Cause:This mismatch is not due to a lack of professionals, but due to low awareness, stigma, and lack of early detection.
+The Impact:Children lose valuable years of learning, confidence, and growth, creating long-term social and emotional consequences.
+
+this as our problem statement. the SIH deadline has been extended to tomorrow. so our group has to re-record our presentation video.
+due to being occupied with this, I am unable to focus on my project. I'll update tomorrow.
