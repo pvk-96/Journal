@@ -196,3 +196,9 @@ The Impact:Children lose valuable years of learning, confidence, and growth, cr
 
 this as our problem statement. the SIH deadline has been extended to tomorrow. so our group has to re-record our presentation video.
 due to being occupied with this, I am unable to focus on my project. I'll update tomorrow.
+
+11-09-2025:
+Today We have submitted the SIH presentation.
+I have uploaded the files of NoteNest to a repository named NoteNest. Altough the app is Vibe-Coded, I am working on my own version using python.
+I think that would help me learn more.
+That's It for today, I'll update tommorow.
