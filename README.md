@@ -204,4 +204,7 @@ I think that would help me learn more.
 That's It for today, I'll update tommorow.
 
 12-09-2025:
-Today I ran into a problem
+Today I ran into a problem.
+I do not know what happened but my arch linux distro stopped working.
+All of my work is in that. I have been working to fix that. I do not know what to do. 
+I will update once i have resolved it and specify the problem.
