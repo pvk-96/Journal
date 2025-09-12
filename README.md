@@ -202,3 +202,6 @@ Today We have submitted the SIH presentation.
 I have uploaded the files of NoteNest to a repository named NoteNest. Altough the app is Vibe-Coded, I am working on my own version using python.
 I think that would help me learn more.
 That's It for today, I'll update tommorow.
+
+12-09-2025:
+Today I ran into a problem
