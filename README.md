@@ -208,3 +208,6 @@ Today I ran into a problem.
 I do not know what happened but my arch linux distro stopped working.
 All of my work is in that. I have been working to fix that. I do not know what to do. 
 I will update once i have resolved it and specify the problem.
+
+14-09-2025:
+I have lost my GitHub streak again. I lost my 27 day streak on 13-09-2025 because I was caught up in my own works. I'll have to rebuild the streak day by day again. 
