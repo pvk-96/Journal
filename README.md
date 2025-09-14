@@ -211,3 +211,4 @@ I will update once i have resolved it and specify the problem.
 
 14-09-2025:
 I have lost my GitHub streak again. I lost my 27 day streak on 13-09-2025 because I was caught up in my own works. I'll have to rebuild the streak day by day again. 
+From now on I will update this repository daily with something useful.
