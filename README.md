@@ -214,3 +214,6 @@ I have lost my GitHub streak again. I lost my 27 day streak on 13-09-2025 becaus
 From now on I will update this repository daily with something useful.
 
 15-09-2025:
+This is the last day I will this README file since I have some other plans from tommorow.
+I have uploaded a simple mystery project to the repo "pvk-96/mys".
+Isuggest you check it out.
