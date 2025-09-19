@@ -218,4 +218,4 @@ This is the last day I will this README file since I have some other plans from 
 I have uploaded a simple mystery project to the repo "pvk-96/mys".
 Isuggest you check it out.
 
-I have lost my streak again🤦
+I have lost my streak again🤦 I will try to avoid this again...
